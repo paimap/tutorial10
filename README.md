@@ -4,3 +4,4 @@
 # 1.3. Multiple Spawn and removing drop
 Ketika drop(spawner) tidak dipanggil, program akan hang dan harus menekan ctrl+c untuk menghentikan programnya. Hal ini dikarenakan executor mengasumsikan bahwa bisa saja task baru ditambahkan kapan pun.
 
+![](img.png)
